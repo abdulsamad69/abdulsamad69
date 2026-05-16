@@ -14,9 +14,5 @@ Meezan Bank ATM Simulator: A robust, C-based CLI application simulating secure b
 Student Database Management System: A structural design in C utilizing efficient file handling for student record management.
 Web Projects: (Add links to your responsive web pages or landing pages here)
 ---
-📊 My GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=abdulsamad69&show_icons=true&theme=radial)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamad69&layout=compact&theme=radial)
----
 🤝 Connect with me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
